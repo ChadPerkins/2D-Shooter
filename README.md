@@ -1,6 +1,6 @@
 # 2D-Shooter
 
-<img alt="alt_text" width="500px" src="Screenshots/Screenshot_1920x1080_1.png" />
+<img alt="alt_text" width="200px" src="Screenshots/Screenshot_1920x1080_1.png" />
 <img alt="alt_text" width="200px" src="Screenshots/Screenshot_1920x1080_2.png" />
 <img alt="alt_text" width="200px" src="Screenshots/Screenshot_1920x1080_3.png" />
 
